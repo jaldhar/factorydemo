@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shapes">
+        <item>circle</item>
+        <item>triangle</item>
+        <item>square</item>
+    </string-array>
+    <string-array name="colors">
+        <item>red</item>
+        <item>white</item>
+        <item>blue</item>
+    </string-array>
+</resources>

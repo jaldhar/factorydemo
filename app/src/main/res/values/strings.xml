@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factory Demo</string>
+    <string name="shape">Pick a shape:</string>
+    <string name="color">Pick a color:</string>
+</resources>

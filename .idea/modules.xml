@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///srv/home/jaldhar/src/public/factorydemo/app/app.iml" filepath="/srv/home/jaldhar/src/public/factorydemo/app/app.iml" />
+      <module fileurl="file:///srv/home/jaldhar/src/public/factorydemo/factorydemo.iml" filepath="/srv/home/jaldhar/src/public/factorydemo/factorydemo.iml" />
+    </modules>
+  </component>
+</project>
